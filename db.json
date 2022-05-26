@@ -46,7 +46,7 @@
       "numeroProcessoAntigo": "string",
       "numeroIncidente": "string",
       "tipoIncidente": "EMBARGOS_DE_DECLARACAO",
-      "juizoDigital": true
+      "juizoDigital": false
     },
     {
       "id": 2,
@@ -94,7 +94,7 @@
       "numeroProcessoAntigo": "string",
       "numeroIncidente": "string",
       "tipoIncidente": "EMBARGOS_DE_DECLARACAO",
-      "juizoDigital": true
+      "juizoDigital": false
     },
     {
       "id": 3,
@@ -142,7 +142,7 @@
       "numeroProcessoAntigo": "string",
       "numeroIncidente": "string",
       "tipoIncidente": "EMBARGOS_DE_DECLARACAO",
-      "juizoDigital": true
+      "juizoDigital": false
     }
   ],
   "pessoas-juridicas": [
