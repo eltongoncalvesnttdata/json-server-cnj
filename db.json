@@ -1,0 +1,210 @@
+{
+  "comunicacao": [
+    {
+      "id": 1,
+      "numeroProcesso": "00001",
+      "uf": "string",
+      "comarca": "string",
+      "varaJudicial": "string",
+      "orgaoLegal": "JEC",
+      "instancia": "PRIMEIRO_GRAU",
+      "reclamanteViewModel": {
+        "nome": "string",
+        "cpfCNPJ": "string",
+        "nomeEmpresaReclamada": "string",
+        "cnpjReclamada": "string",
+        "assunto": "INDENIZATORIA"
+      },
+      "tipoAcao": "INDIVIDUAL",
+      "classe": "string",
+      "procedimento": "ORDINARIO",
+      "dataAjuizamento": "string",
+      "dataComunicacao": "string",
+      "audienciaViewModel": {
+        "dataAudiencia": "string",
+        "horaAudiencia": "string",
+        "tipoAudiencia": "INICIAL",
+        "formatoAudiencia": "VIRTUAL"
+      },
+      "segredoJustica": true,
+      "tipoDocumento": "CITACAO",
+      "intimacaoViewModel": {
+        "tipoIntimacao": "LIMINAR",
+        "prazoIntimacao": "string"
+      },
+      "urgente": "string",
+      "cautelar": "string",
+      "prazoCautelar": "string",
+      "prazoContestacao": "string",
+      "valorCausa": 0,
+      "advogado": {
+        "nome": "string",
+        "numeroOAB": "string",
+        "ufOAB": "string"
+      },
+      "magistrado": "string",
+      "numeroProcessoAntigo": "string",
+      "numeroIncidente": "string",
+      "tipoIncidente": "EMBARGOS_DE_DECLARACAO",
+      "juizoDigital": true
+    },
+    {
+      "id": 2,
+      "numeroProcesso": "00002",
+      "uf": "string",
+      "comarca": "string",
+      "varaJudicial": "string",
+      "orgaoLegal": "JEC",
+      "instancia": "PRIMEIRO_GRAU",
+      "reclamanteViewModel": {
+        "nome": "string",
+        "cpfCNPJ": "string",
+        "nomeEmpresaReclamada": "string",
+        "cnpjReclamada": "string",
+        "assunto": "INDENIZATORIA"
+      },
+      "tipoAcao": "INDIVIDUAL",
+      "classe": "string",
+      "procedimento": "ORDINARIO",
+      "dataAjuizamento": "string",
+      "dataComunicacao": "string",
+      "audienciaViewModel": {
+        "dataAudiencia": "string",
+        "horaAudiencia": "string",
+        "tipoAudiencia": "INICIAL",
+        "formatoAudiencia": "VIRTUAL"
+      },
+      "segredoJustica": true,
+      "tipoDocumento": "CITACAO",
+      "intimacaoViewModel": {
+        "tipoIntimacao": "LIMINAR",
+        "prazoIntimacao": "string"
+      },
+      "urgente": "string",
+      "cautelar": "string",
+      "prazoCautelar": "string",
+      "prazoContestacao": "string",
+      "valorCausa": 0,
+      "advogado": {
+        "nome": "string",
+        "numeroOAB": "string",
+        "ufOAB": "string"
+      },
+      "magistrado": "string",
+      "numeroProcessoAntigo": "string",
+      "numeroIncidente": "string",
+      "tipoIncidente": "EMBARGOS_DE_DECLARACAO",
+      "juizoDigital": true
+    },
+    {
+      "id": 3,
+      "numeroProcesso": "00003",
+      "uf": "string",
+      "comarca": "string",
+      "varaJudicial": "string",
+      "orgaoLegal": "JEC",
+      "instancia": "PRIMEIRO_GRAU",
+      "reclamanteViewModel": {
+        "nome": "string",
+        "cpfCNPJ": "string",
+        "nomeEmpresaReclamada": "string",
+        "cnpjReclamada": "string",
+        "assunto": "INDENIZATORIA"
+      },
+      "tipoAcao": "INDIVIDUAL",
+      "classe": "string",
+      "procedimento": "ORDINARIO",
+      "dataAjuizamento": "string",
+      "dataComunicacao": "string",
+      "audienciaViewModel": {
+        "dataAudiencia": "string",
+        "horaAudiencia": "string",
+        "tipoAudiencia": "INICIAL",
+        "formatoAudiencia": "VIRTUAL"
+      },
+      "segredoJustica": true,
+      "tipoDocumento": "CITACAO",
+      "intimacaoViewModel": {
+        "tipoIntimacao": "LIMINAR",
+        "prazoIntimacao": "string"
+      },
+      "urgente": "string",
+      "cautelar": "string",
+      "prazoCautelar": "string",
+      "prazoContestacao": "string",
+      "valorCausa": 0,
+      "advogado": {
+        "nome": "string",
+        "numeroOAB": "string",
+        "ufOAB": "string"
+      },
+      "magistrado": "string",
+      "numeroProcessoAntigo": "string",
+      "numeroIncidente": "string",
+      "tipoIncidente": "EMBARGOS_DE_DECLARACAO",
+      "juizoDigital": true
+    }
+  ],
+  "pessoas-juridicas": [
+    {
+      "ativo": true,
+      "cnpj": "60.701.190/0001-04",
+      "nomeFantasia": "EST UNIF",
+      "razaoSocial": "ITAÚ UNIBANCO S.A",
+      "porte": "DEMAIS",
+      "tipoEmpresa": "MATRIZ",
+      "localizacao": {
+        "cidade": "SAO PAULO",
+        "estado": "SP",
+        "cep": "04.344-902",
+        "email": [
+          "ITAUJUDICIAL@ITAU-UNIBANCO.COM.BR"
+        ]
+      },
+      "atividadeEconomica": {
+        "codigo": "64.22-1-00",
+        "descricao": "Bancos múltiplos, com carteira comercial"
+      }
+    },
+    {
+      "ativo": true,
+      "cnpj": "00.000.000/0001-91",
+      "nomeFantasia": "DIRECAO GERAL",
+      "razaoSocial": "BANCO DO BRASIL SA",
+      "porte": "DEMAIS",
+      "tipoEmpresa": "MATRIZ",
+      "localizacao": {
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "cep": "70.040-912",
+        "email": [
+          "SECEX@BB.COM.BR"
+        ]
+      },
+      "atividadeEconomica": {
+        "codigo": "64.22-1-00",
+        "descricao": "Bancos múltiplos, com carteira comercial"
+      }
+    },
+    {
+      "ativo": true,
+      "cnpj": "00.360.305/0001-04",
+      "nomeFantasia": "CEF MATRIZ",
+      "razaoSocial": "CAIXA ECONOMICA FEDERAL",
+      "porte": "DEMAIS",
+      "tipoEmpresa": "MATRIZ",
+      "localizacao": {
+        "cidade": "BRASILIA",
+        "estado": "DF",
+        "cep": "70.040-912",
+        "email": [
+          "SECEX@BB.COM.BR"
+        ]
+      },
+      "atividadeEconomica": {
+        "codigo": "201-1",
+        "descricao": "Empresa Pública"
+      }
+    }
+  ]
+}
